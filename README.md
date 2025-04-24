@@ -1,7 +1,7 @@
 ## Setup Instructions
 1. **Clone the Repository**
    ```bash
-   git clone https://huggingface.co/spaces/spurthisrivatsa/email-pii-masker
+   git clone https://github.com/SpurthiSrivatsa04/email-pii-masker/
    cd email-pii-masker
    ```
 

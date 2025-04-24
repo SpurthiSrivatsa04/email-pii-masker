@@ -1,14 +1,3 @@
----
-title: Email PII Masker and Classifier 
-emoji: 📧                      
-colorFrom: blue                   
-colorTo: purple                
-sdk: docker                      
-sdk_version: "5.25.2"                 
-app_file: app.py         
-pinned: false              
----
-
 ## Setup Instructions
 1. **Clone the Repository**
    ```bash
